@@ -8,7 +8,7 @@ This is an adapted Ralph Wiggum script that uses GitHub Copilot. I made a few ch
 1. I use GitHub Codespaces to create many sandboxed environments so I can run many ralphs at once. The can communicate across environments via Git Notes. You can also talk to past agents from different machines by tying into Git Notes.
 1. Added the DONE promise to the build plan so it is always present
 1. GitHub CLI does not have support for all the things Cursor does mainly around logging.
-
+1. You probably want to setup [Hooks](https://github.com/github/copilot-agent-runtime/blob/main/src/cli/docs/hooks-configuration.md)
 
 # The Ralph Playbook
 
